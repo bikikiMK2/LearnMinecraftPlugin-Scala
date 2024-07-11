@@ -1,7 +1,6 @@
 /.bsp/
 /.idea/
 /target/
-/project/
-build.sbt
-/src/main/resources/plugin.yml
+/project/target/
+/project/project/
 
